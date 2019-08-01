@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * 连接rabbitmq
+ * 简单队列
  */
 public class simple {
     private static final String QUEUE_NAME = "test_simple_queue";

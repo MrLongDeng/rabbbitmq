@@ -14,6 +14,7 @@ public class send {
      * @param args
      * @throws IOException
      * @throws TimeoutException
+     * 工作队列
      */
     private static final String QUEUE_NAME = "test_work_queue";
     public static void main(String[] args) throws IOException, TimeoutException, InterruptedException {
